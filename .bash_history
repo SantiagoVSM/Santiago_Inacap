@@ -76,3 +76,100 @@ passwd devasc
 passwd root
 clear
 who
+cd
+clear
+su devasc
+clear
+cd
+poweroff
+cd
+clear
+su devasc
+clear
+cd
+apt update
+clear
+cd
+su devasc
+clear
+cd
+su devasc
+clear
+apt install git
+clear
+echo STG_INA
+clear
+git init
+git -m "Primer Repositorio"
+git commit -m "Primer Repositorio"
+clear
+git@github.com:SantiagoVSM/STG_INA.git
+cd
+git@github.com:SantiagoVSM/STG_INA.git
+clear
+git remote add origin git@github.com:SantiagoVSM/STG_INA.git
+clear
+git remote add origin git@github.com:SantiagoVSM/STG_INA.git
+clear
+git 
+clear
+git remote add origin git@github.com:SantiagoVSM/STG_INA.git
+clear
+git init
+ll /root/.git/
+ll /root/
+cd/root/.git/
+cd /root/.git/
+ll
+cd
+clear
+git add -a 
+git add -A
+git commit -m "Evaluacion N°2"
+git branch -M main 
+git remote add origin git@github.com:SantiagoVSM/Santiago_Soto.git
+git push -u origin main
+clear
+git remote add origin git@github.com:SantiagoVSM/Santiago_Soto.git
+clear
+git push -u origin main
+clear
+git push --set-upstream origin master
+clear
+git push -u origin main
+git status 
+git add .ssh/known_hosts 
+clear
+git push -u origin main
+git status 
+clear
+ls
+ll
+git add .
+clear
+git status 
+clear
+git config --global user.email santiago.soto02@inacapmail.cl
+git config --global user.name Santiago
+git commit -m "Evaluacion N°2"
+git branch -M main
+git remote add origin git@github.com:SantiagoVSM/Santiago_Soto.git
+git push -u origin main 
+clear
+git push -u origin main 
+CLEAR
+clear
+echo https://github.com/SantiagoVSM/Santiago_Soto7
+clear
+git push -u origin main 
+ssh-keygen
+clear
+git push -u origin main 
+ssh-keygen
+cd /root/.ssh/id_rsa
+clear
+su devasc
+clear
+cd
+vim /etc/ssh/sshd_config
+clear

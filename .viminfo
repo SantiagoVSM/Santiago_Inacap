@@ -11,14 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1715021146,,"q"
 :wq
 |2,0,1715015150,,"wq"
 :w
 |2,0,1715013602,,"w"
 :WQ
 |2,0,1715013597,,"WQ"
-:q
-|2,0,1715013466,,"q"
 
 # Search String History (newest to oldest):
 
@@ -31,24 +31,40 @@
 # Registers:
 
 # File marks:
-'0  123  0  /etc/ssh/sshd_config
-|4,48,123,0,1715015150,"/etc/ssh/sshd_config"
-'1  23  0  /etc/ssh/sshd_config
-|4,49,23,0,1715014734,"/etc/ssh/sshd_config"
-'2  21  35  /etc/ssh/sshd_config
-|4,50,21,35,1715014734,"/etc/ssh/sshd_config"
+'0  2  0  /etc/ssh/sshd_config
+|4,48,2,0,1715021146,"/etc/ssh/sshd_config"
+'1  123  0  /etc/ssh/sshd_config
+|4,49,123,0,1715015150,"/etc/ssh/sshd_config"
+'2  123  0  /etc/ssh/sshd_config
+|4,50,123,0,1715015150,"/etc/ssh/sshd_config"
 '3  23  0  /etc/ssh/sshd_config
 |4,51,23,0,1715014734,"/etc/ssh/sshd_config"
 '4  21  35  /etc/ssh/sshd_config
 |4,52,21,35,1715014734,"/etc/ssh/sshd_config"
-'5  123  7  /etc/ssh/sshd_config
-|4,53,123,7,1715013978,"/etc/ssh/sshd_config"
+'5  23  0  /etc/ssh/sshd_config
+|4,53,23,0,1715014734,"/etc/ssh/sshd_config"
+'6  21  35  /etc/ssh/sshd_config
+|4,54,21,35,1715014734,"/etc/ssh/sshd_config"
+'7  23  0  /etc/ssh/sshd_config
+|4,55,23,0,1715014734,"/etc/ssh/sshd_config"
+'8  21  35  /etc/ssh/sshd_config
+|4,56,21,35,1715014734,"/etc/ssh/sshd_config"
+'9  23  0  /etc/ssh/sshd_config
+|4,57,23,0,1715014734,"/etc/ssh/sshd_config"
 
 # Jumplist (newest first):
+-'  2  0  /etc/ssh/sshd_config
+|4,39,2,0,1715021146,"/etc/ssh/sshd_config"
+-'  123  0  /etc/ssh/sshd_config
+|4,39,123,0,1715021098,"/etc/ssh/sshd_config"
 -'  123  0  /etc/ssh/sshd_config
 |4,39,123,0,1715015150,"/etc/ssh/sshd_config"
 -'  23  0  /etc/ssh/sshd_config
 |4,39,23,0,1715015126,"/etc/ssh/sshd_config"
+-'  23  0  /etc/ssh/sshd_config
+|4,39,23,0,1715015126,"/etc/ssh/sshd_config"
+-'  21  35  /etc/ssh/sshd_config
+|4,39,21,35,1715014734,"/etc/ssh/sshd_config"
 -'  21  35  /etc/ssh/sshd_config
 |4,39,21,35,1715014734,"/etc/ssh/sshd_config"
 -'  23  0  /etc/ssh/sshd_config
@@ -62,6 +78,8 @@
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1715013887,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1715013887,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1715013532,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1715013036,"/etc/ssh/sshd_config"
@@ -69,8 +87,8 @@
 # History of marks within files (newest to oldest):
 
 > /etc/ssh/sshd_config
-	*	1715015148	0
-	"	123	0
+	*	1715021145	0
+	"	2	0
 	^	23	0
 	.	98	18
 	+	17	28
